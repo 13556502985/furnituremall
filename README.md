@@ -1,0 +1,2 @@
+# furnituremall
+这是一个简单的家具购物商场，前端开发统一使用html语言，layui css框架和jquery js框架，使用bookstrap作为开发工具。后端开发使用Java语言，开发工具选用IntelliJ IDEA 2018，而开发技术主要使用SpringMVC框架，Mybati技术等，搭建数据库使用MySql，搭建于阿里云上。前后端交互使用RESTful风格的API。
